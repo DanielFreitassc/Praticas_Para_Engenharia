@@ -9,4 +9,3 @@
 #### O Excel é amplamente utilizado em diversas áreas, incluindo negócios, finanças, ciência de dados, engenharia, contabilidade e muitas outras. Sua flexibilidade e funcionalidades tornam-no uma ferramenta poderosa para organizar, analisar e apresentar dados de maneira eficiente.
 
 ## A inteface do excel pode ser complexa
-![PLanilha]([URL da imagem](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cursosdeexcelonline.com.br%2Fblog%2Fdicas%2Faprenda-uma-dica-valiosa-ao-criar-planilhas-com-diversas-abas-no-excel&psig=AOvVaw3fH_IJvcIvY8IEsVpA-Ku7&ust=1686264010090000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMChrY2dsv8CFQAAAAAdAAAAABAD))
