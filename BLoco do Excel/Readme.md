@@ -22,7 +22,7 @@ O Excel é amplamente utilizado em diversas áreas, incluindo negócios, finanç
 ## A interface do excel pode ser complexa.
 :hand: :sunglasses:
 A interface do excel pode ser complexa Segue abaixo uma imagem da interface do excel.
-![Planilhas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fdicas-e-tutoriais%2F2020%2F11%2Fcomo-converter-planilha-do-excel-em-arquivo-pdf.ghtml&psig=AOvVaw3MrrcJ6fkrD-irJsseOk8X&ust=1686269679544000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLDFlJ2ysv8CFQAAAAAdAAAAABAU)
+![Planilhas](https://dicasdoexcel.com.br/wp-content/uploads/2019/10/01-1024x576.jpg)
 
 ## Para acessar os smiles clique 
 ### [AQUI ](https://github.com/ikatyang/emoji-cheat-sheet)
