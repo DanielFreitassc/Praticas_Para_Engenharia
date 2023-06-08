@@ -33,3 +33,19 @@ Comprenda o conceito de células, que são os espaços individuais
 ## Fórmulas e Funções :chart:
 Aprenda a usar fórmulas e funções dp Excel para executar cáculos e análises 
 
+1. Exemplo de tabela de minhas notas.
+   
+   Disciplina | N1 | N2 | N3 | MÉDIA.
+   ---|---|---|---|---
+   Hardware| 10,0 | 10,0 | 10,0| 10,0
+   Estrutura| 9| 8 | 7,05 | 9
+   Jornada| 10,0 | 10,0 | 10,0| 10,0
+   Algebra| 9| 8 | 7,05 | 9
+   Praticas de Engenharia| 10,0 | 10,0 | 10,0| 10,0
+   Programação| 9| 8 | 7,05 | 9
+   
+   
+   2. Disciplina que falta sair a nota.
+   - [x] Programação
+   - [x] Harware
+   - [ ]  Praticas de Engenharia
