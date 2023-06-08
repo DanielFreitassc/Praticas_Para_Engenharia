@@ -9,6 +9,7 @@ Tabela de conteúdos
     - [AQUI ](#aqui-)
   - [Celulas e Ranges :bar\_chart:](#celulas-e-ranges-bar_chart)
   - [Fórmulas e Funções :chart:](#fórmulas-e-funções-chart)
+- [Tabela exemplo excel.](#tabela-exemplo-excel)
 <!--te-->
 # Oque é o Excel?
 O Excel é um software de planilha eletrônica desenvolvido pela Microsoft. Ele faz parte do pacote de aplicativos do Microsoft Office e é amplamente utilizado para criar, editar e analisar dados em formato de planilhas. O Excel oferece uma interface intuitiva e recursos poderosos que permitem aos usuários realizar cálculos, criar gráficos, automatizar tarefas, realizar análises de dados, organizar informações e muito mais.
@@ -49,7 +50,7 @@ Aprenda a usar fórmulas e funções dp Excel para executar cáculos e análises
    - [x] Programação
    - [x] Harware
    - [x]  Praticas de Engenharia
-   Tabela exemplo excel.
+   # Tabela exemplo excel.
    
    
    ![Captura de tela 2023-06-07 212724](https://github.com/DanielFreitassc/praticasparaengenharia/assets/129224303/db2c3842-aec1-4ddd-9c80-f59544db207c)
