@@ -48,6 +48,6 @@ Aprenda a usar fórmulas e funções dp Excel para executar cáculos e análises
    2. Disciplina que falta sair a nota.
    - [x] Programação
    - [x] Harware
-   - [ ]  Praticas de Engenharia
-   2.
+   - [x]  Praticas de Engenharia
+   3.
     ![Captura de tela 2023-06-07 212724](https://github.com/DanielFreitassc/praticasparaengenharia/assets/129224303/db2c3842-aec1-4ddd-9c80-f59544db207c)
