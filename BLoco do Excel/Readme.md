@@ -49,5 +49,5 @@ Aprenda a usar fórmulas e funções dp Excel para executar cáculos e análises
    - [x] Programação
    - [x] Harware
    - [x]  Praticas de Engenharia
-   3.
+   3. Tabela exemplo excel.
     ![Captura de tela 2023-06-07 212724](https://github.com/DanielFreitassc/praticasparaengenharia/assets/129224303/db2c3842-aec1-4ddd-9c80-f59544db207c)
